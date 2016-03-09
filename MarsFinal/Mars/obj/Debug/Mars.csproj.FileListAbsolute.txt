@@ -1,0 +1,12 @@
+C:\Develop\VisualStudioProjects\Mars\Mars\bin\Debug\Mars.exe.config
+C:\Develop\VisualStudioProjects\Mars\Mars\bin\Debug\Mars.exe
+C:\Develop\VisualStudioProjects\Mars\Mars\bin\Debug\Mars.pdb
+C:\Develop\VisualStudioProjects\Mars\Mars\obj\Debug\Mars.csprojResolveAssemblyReference.cache
+C:\Develop\VisualStudioProjects\Mars\Mars\obj\Debug\Mars.exe
+C:\Develop\VisualStudioProjects\Mars\Mars\obj\Debug\Mars.pdb
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\bin\Debug\Mars.exe.config
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\obj\Debug\Mars.exe
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\obj\Debug\Mars.pdb
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\bin\Debug\Mars.exe
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\bin\Debug\Mars.pdb
+C:\Develop\VisualStudioProjects\MarsFinal\Mars\obj\Debug\Mars.csprojResolveAssemblyReference.cache
